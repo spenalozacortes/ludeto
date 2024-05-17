@@ -1,0 +1,45 @@
+body {
+    background-color: #009900;
+  }
+  
+  #teksto {
+    background-color: #009900;
+    color: #ffffff;
+    padding: 10px;
+  }
+  
+  #ludo {
+    max-width: 500px;
+    max-height: 400px;
+    background-color: #ffffff;
+    color: #ffffff;
+    margin: 30px auto 0px;
+    padding: 10px;
+  }
+  
+  #regiloj,
+  #statistikajxoj {
+    border: 1px solid #000000;
+    padding: 5px;
+    color: #000000;
+  }
+  
+  #monstro-statistikajxoj {
+    display: none;
+    border: 1px solid #000000;
+    padding: 5px;
+    color: #ffffff;
+    background-color: #ff0000;
+  }
+  
+  .statistikajxo {
+    padding-right: 10px;
+  }
+  
+  button {
+    cursor: pointer;
+    color: #000000;
+    background-color: #2C693F;
+    background-image: linear-gradient(#37A93A, #008000);
+    border: 3px solid #2C693F;
+  }
